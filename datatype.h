@@ -8,6 +8,8 @@
 #define int16 short
 #define uint32 unsigned int
 #define int32 int
+#define uint64 unsigned long long
+#define int64 long long
 
 
 #endif // _DATATYPE_H_
